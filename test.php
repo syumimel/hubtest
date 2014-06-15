@@ -8,7 +8,12 @@ $b=1;
 
 if($a==1){
  if($b==1){
-  printf("ok2");  
+  printf("ok2<br>");  
+  printf("ok2<br>");  
+  printf("ok2<br>");  
+  printf("ok2<br>");  
+  printf("ok2<br>");  
+  printf("ok2<br>");  
  }    
 }else{
 
